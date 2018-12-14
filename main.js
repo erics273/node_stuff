@@ -1,11 +1,11 @@
-// let person = {
-//     firstName: "eric",
-//     lastName: "Schwartz",
-//     DOB: "9/30",
-//     sayName: function(){
-//         return this.firstName + " " + this.lastName;
-//     }
-// }
+let person = {
+    firstName: "eric",
+    lastName: "Schwartz",
+    DOB: "9/30",
+    sayName: function(){
+        return this.firstName + " " + this.lastName;
+    }
+}
 
 //prior to es6
 // function person(firstName, lastName, DOB){
