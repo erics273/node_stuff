@@ -51,3 +51,8 @@ while(i<people.length){
     console.log(people[i].sayName());
     i++
 }
+
+as
+fasfasdfasdf
+
+addEventListenerasdf
