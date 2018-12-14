@@ -1,5 +1,5 @@
 let person = {
-    firstName: "erasfsdficasfsd",
+    firstName: "ericasdfasdfasfdfasdf",
     lastName: "Schwartz",
     DOB: "9/30",
     sayName: function(){
