@@ -18,6 +18,9 @@ let person = {
 // }
 
 class person {
+
+
+    
     
     constructor(firstName, lastName, DOB){
         this.firstName = firstName;
