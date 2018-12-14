@@ -17,6 +17,10 @@ let person = {
 //     }
 // }
 
+
+
+
+
 class person {
     
     constructor(firstName, lastName, DOB){
